@@ -1,0 +1,3 @@
+# cat=basic/enable/320; type=boolean; label= Enable debugging: If debugging is enabled. 
+debugEnabled = 1
+
